@@ -1,4 +1,4 @@
-Betthor - Sistema de Apostas para Estudo
+# Betthor - Sistema de Apostas para Estudo
 Um projeto simples de sistema de apostas (Betting System) desenvolvido para fins de estudo e aprimoramento em tecnologias backend Java.
 
 🚀 Tecnologias Utilizadas
