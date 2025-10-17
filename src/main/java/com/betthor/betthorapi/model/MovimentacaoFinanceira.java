@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 
 @Entity
 @Table(name = "movimentacoes_financeiras")
-public class MovimentacaoFinanceira {
+public class MovimentacaoFinanceira extends BaseEntity {
 
     @ManyToOne
     @JoinColumn(name = "usuario_id", nullable = false)
